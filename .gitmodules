@@ -1,5 +1,20 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/shunsambongi/universe
 	shallow = true
 	branch = HEAD
+[submodule "bytetrunc2"]
+	path = bytetrunc2
+	url = https://github.com/shunsambongi/r-bytetrunc2
+	shallow = true
+	registered = true
+[submodule "chex"]
+	path = chex
+	url = https://github.com/shunsambongi/r-chex
+	shallow = true
+	registered = true
+[submodule "domo"]
+	path = domo
+	url = https://github.com/shunsambongi/r-domo
+	shallow = true
+	registered = true

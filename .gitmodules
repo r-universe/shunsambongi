@@ -13,6 +13,11 @@
 	url = https://github.com/shunsambongi/r-chex
 	shallow = true
 	registered = true
+[submodule "dbiconf"]
+	path = dbiconf
+	url = https://github.com/shunsambongi/r-dbiconf
+	shallow = true
+	registered = true
 [submodule "domo"]
 	path = domo
 	url = https://github.com/shunsambongi/r-domo

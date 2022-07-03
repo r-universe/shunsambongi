@@ -6,6 +6,9 @@
     "package": "chex"
   },
   {
+    "package": "dbiconf"
+  },
+  {
     "package": "domo"
   }
 ]
